@@ -8,11 +8,11 @@ using System.Text;
 
 namespace KickDo.Services
 {
-    public class FundingServices
-    {
+    //public class FundingServices
+    //{
 
 
-    }
+    //}
 
     public class RegistrationServices
     {
